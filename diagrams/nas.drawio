@@ -11,7 +11,7 @@
           <mxGeometry x="150" y="460" width="40" height="54" as="geometry" />
         </mxCell>
         <mxCell id="KHwJY_O5MvQ1fBtN65Wm-3" value="/mnt/hdd-03&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.hard_disk;" vertex="1" parent="1">
-          <mxGeometry x="240" y="460" width="40" height="54" as="geometry" />
+          <mxGeometry x="260" y="460" width="40" height="54" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
